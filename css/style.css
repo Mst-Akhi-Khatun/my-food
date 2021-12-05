@@ -1,0 +1,194 @@
+*{
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+.header-area{
+	background-color: white;
+	width: 100%;
+	height: 100px;
+	overflow: hidden;
+	position: fixed;
+}
+.header-left{
+	
+	width: 33.3%;
+	height: 100px;
+	float: left;
+	padding: 20px 0px 0px 70px;
+}
+
+.header-midle{
+	
+	width: 33.3%;
+	height: 100px;
+	float: left;
+	padding: 20px 0px 0px 10px;
+	text-align: center;
+}
+.header-right{
+	
+	width: 33.3%;
+	height: 100px;
+	float: left;
+	padding: 20px 65px 0px 0px;
+	text-align: right;
+}
+.body-area{
+	
+	width: 85%;
+	height: 1280px;
+	margin: auto;
+	overflow: hidden;
+}
+.fast-div{
+	
+	width: 100%;
+	height: 50%;
+	overflow: hidden;
+
+}
+.pic{
+	
+	width: 25%;
+	height: 100%;
+	float: left;
+	padding: 8px;
+}
+.pic img{
+	width: 100%;
+	height: 65%;
+}
+.pic h2{
+	padding: 6px;
+	line-height: 34px;
+}
+.pic p{
+	padding: 6px;
+	line-height: 22px;
+}
+.second-div{
+	
+	width: 100%;
+	height: 50%;
+}
+.number{
+	
+	width: 85%;
+	height: 50px;
+	text-align: center;
+	margin: auto;
+	border-bottom: 1px solid #CCCCCC;
+}
+.number span{
+	
+	padding: 14px 18px;
+	margin: 1px;
+	
+}
+.number span.sp{
+	background-color: black;
+	color: white;
+}
+.number span:hover{
+	background-color: black;
+	color: white;
+}
+.about-me{
+	
+	width: 85%;
+	height: 900px;
+	margin: auto;
+	border-bottom: 1px solid #CCCCCC;
+}
+.about-me img{
+	padding-left: 182px;
+}
+.about-me h2{
+	text-align: center;
+	padding: 40px 10px 12px 10px;
+}
+
+.about-me h3{
+	text-align: center;
+	padding: 10px;
+}
+.about-me p{
+	padding: 2px 7px;
+}
+.footer-area{
+	
+	width: 85%;
+	height: 300px;
+	margin: auto;
+	overflow: hidden;
+}
+.footer{
+
+	width: 33.3%;
+	height: 300px;
+	float: left;
+	padding: 50px 6px 0px 6px;
+}
+.footer h2{
+	padding-bottom: 25px;
+}
+.footer span{
+	padding: 15px 0px 0px 6px;
+	display: inline-block;
+}
+.footer span a{
+	color: black;
+}
+.blog-post{
+	
+	width: 33.3%;
+	height: 300px;
+	float: left;
+	padding:50px 6px 0px 6px;
+}
+.blog-post h2{
+	padding-bottom: 25px;
+}
+.lorem{
+	
+	width: 100%;
+	height: 90px;
+	overflow: hidden;
+	border-bottom: 1px solid #CCCCCC;
+}
+
+.lorem span{
+	float: left;
+	padding: 10px 160px 0px 10px;
+}
+.lorem img{
+	width: 20%;
+	height: 87px;
+	float: left;
+	padding: 10px;
+}
+.lorem:hover{
+	background-color: #CCCCCC;
+}
+
+.popular-tag{
+	
+	width: 33.3%;
+	height: 300px;
+	float: left;
+	padding:50px 6px 0px 6px;
+}
+.popular-tag span{
+	background-color: #616161;
+	color: white;
+	padding: 3px 5px;
+	margin: 5px 0px;
+	display: inline-block;
+}
+.popular-tag h2{
+	padding-bottom: 25px;
+}
+span.tr{
+	background-color: black;
+}

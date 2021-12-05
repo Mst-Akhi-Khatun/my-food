@@ -1,0 +1,36 @@
+@media screen and (max-width: 520px){
+	.body-area{
+		height: auto;
+		width: 90%;
+		margin: auto;
+	}
+	.fast-div{
+		height: auto;
+	}
+	.pic{
+	width: 100%;	
+}
+.about-me{
+	height: 750px;
+	width: 90%;
+	margin: auto;
+}
+.about-me img{
+	padding: 10px;
+	width: 100%
+}
+.footer-area{
+	height: auto;
+}
+.footer{
+	width: 100%;
+	height: auto;
+}
+.blog-post{
+	width: 100%;
+	height: auto;
+}
+.popular-tag{
+	width: 100%;
+}
+}
